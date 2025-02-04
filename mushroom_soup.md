@@ -1,5 +1,5 @@
 # Ingredients
-mushroom
+button mushroom
 garlic
 onion
 # Instructions
